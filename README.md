@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sofikul sk</h1>
 <h3 align="center">Full Stack Developer & Web Designer | Innovating with Generative AI & Scalable Web Solutions</h3>
-
+<img align="right" alt="coding" src="https://assets-v2.lottiefiles.com/a/6a415a70-1188-11ee-be8b-0385ff492bc8/qlIb5hr0jR.gif"  width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofikulsk02&label=Profile%20views&color=0e75b6&style=flat" alt="sofikulsk02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofikulsk02" alt="sofikulsk02" /></a> </p>
