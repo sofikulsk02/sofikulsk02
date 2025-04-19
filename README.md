@@ -1,10 +1,29 @@
+<img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="MasterHead" width="1100" height="400">
 <h1 align="center">Hi 👋, I'm Sofikul sk</h1>
 <h3 align="center">Full Stack Developer & Web Designer | Innovating with Generative AI & Scalable Web Solutions</h3>
-<img align="right" alt="coding" src="https://assets-v2.lottiefiles.com/a/6a415a70-1188-11ee-be8b-0385ff492bc8/qlIb5hr0jR.gif"  width="400">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sofikulsk02&label=Profile%20views&color=0e75b6&style=flat" alt="sofikulsk02" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofikulsk02&label=Profile%20views&color=0e75b6&style=flat" alt="sofikulsk02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofikulsk02" alt="sofikulsk02" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofikulsk02" alt="sofikulsk02" /></a> </p> -->
+<!-- Container with centered and full-width style -->
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+  
+  <!-- Profile Views -->
+  <img 
+    src="https://komarev.com/ghpvc/?username=sofikulsk02&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="sofikulsk02"
+    style="max-width: 100%; margin-bottom: 10px;"
+  />
 
+  <!-- GitHub Trophy -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=sofikulsk02&theme=algolia&margin-w=15&margin-h=15" 
+      alt="GitHub Trophies" 
+      style="max-width: 100%;"
+    />
+  </a>
+</div>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="400" alt="Coding">
 <p align="left"> <a href="https://twitter.com/https://x.com/home/rajibseikh20" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/home/rajibseikh20?logo=twitter&style=for-the-badge" alt="https://x.com/home/rajibseikh20" /></a> </p>
 
 - 🔭 I’m currently building **SomaOS**, my own custom operating system, along with **soma.io** — a series of AI-powered tools and libraries to assist with modern development workflows.
