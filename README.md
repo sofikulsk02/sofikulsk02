@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/rajibseikh20" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - @rajibseikh20" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/x/1DA1F2" alt="Twitter - @rajibseikh20" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/sofikul-sk-a01457313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofikul-sk-a01457313" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/sofikulsk2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/sofikulsk2002" height="30" width="40" /></a>
