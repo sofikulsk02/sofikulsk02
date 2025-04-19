@@ -24,8 +24,6 @@
   </a>
 </div>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="400" alt="Coding">
-<p align="left"> <a href="https://twitter.com/https://x.com/home/rajibseikh20" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/home/rajibseikh20?logo=twitter&style=for-the-badge" alt="https://x.com/home/rajibseikh20" /></a> </p>
-
 - 🔭 I’m currently building **SomaOS**, my own custom operating system, along with **soma.io** — a series of AI-powered tools and libraries to assist with modern development workflows.
 
 - 🌱 I’m currently diving deep into **Generative AI** and building projects that blend AI with web technologies.
@@ -36,17 +34,15 @@
 
 - 📫 How to reach me **rajibsk563@gmail.com** and **sofikul.main@gmail.com**
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/rajibseikh20" target="_blank">
   <img align="center" src="https://cdn.simpleicons.org/x/1DA1F2" alt="Twitter - @rajibseikh20" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/sofikul-sk-a01457313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofikul-sk-a01457313" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/sofikulsk2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/sofikulsk2002" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sofikul_sk02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sofikul_sk02" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sofikulsk_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sofikulsk_02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sofikul_sk_02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sofikul_sk_02/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sofikulsop0js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sofikulsop0js" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
