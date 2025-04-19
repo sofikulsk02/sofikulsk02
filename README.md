@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/https://x.com/home/rajibseikh20" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/home/rajibseikh20?logo=twitter&style=for-the-badge" alt="https://x.com/home/rajibseikh20" /></a> </p>
 
-- 🔭 I’m currently working on [SomaOs]
+- 🔭 I’m currently building **SomaOS**, my own custom operating system, along with **soma.io** — a series of AI-powered tools and libraries to assist with modern development workflows.
 
 - 🌱 I’m currently diving deep into **Generative AI** and building projects that blend AI with web technologies.
 
-- 👨‍💻 All of my projects are available at [sofikul.me](sofikul.me)
+- 👨‍💻 You can explore all my projects and work at [sofikul.me](https://sofikul.me)
 
 - 💬 Ask me about **JavaScript**, **React.js**, **Node.js**, **Express.js**, **MongoDB**, **Tailwind CSS**, **Framer Motion**, **React Design Patterns**, **Python**, and **Generative AI**.
 
