@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="MasterHead" width="1100" height="400">
 <h1 align="center">Hi 👋, I'm Sofikul sk</h1>
-<h3 align="center">Full Stack Developer & Web Designer | Innovating with Generative AI & Scalable Web Solutions</h3>
+<h3 align="center">Full Stack Developer | Innovating with Generative AI & Scalable Web Solutions</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofikulsk02&label=Profile%20views&color=0e75b6&style=flat" alt="sofikulsk02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofikulsk02" alt="sofikulsk02" /></a> </p> -->
@@ -24,17 +24,13 @@
   </a>
 </div>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="400" alt="Coding">
-- 🔭 I’m currently building **SomaOS**, my own custom operating system, along with **soma.io** — a series of AI-powered tools and libraries to assist with modern development workflows.
+Backend Developer working on real-world production systems and scalable architectures.
 
-- 🌱 I’m currently diving deep into **Generative AI** and building projects that blend AI with web technologies.
+Currently focused on backend engineering, distributed system thinking, and building reliable APIs for high-scale platforms. Learning how large systems are designed, shipped, and maintained in production.
 
-- 👨‍💻 You can explore all my projects and work at [sofikul.me](https://sofikul.me)
+Passionate about system design, performance optimization, and building tools that actually solve real user problems.
 
-- 💬 Ask me about **JavaScript**, **React.js**, **Node.js**, **Express.js**, **MongoDB**, **Tailwind CSS**, **Framer Motion**, **React Design Patterns**, **Python**, and **Generative AI**.
-
-- 📫 How to reach me **rajibsk563@gmail.com** and **sofikul.main@gmail.com**
-
-
+Always learning. Always building. Always improving.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
