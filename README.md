@@ -84,6 +84,12 @@ Operating Systems, Networking, Computer Architecture, System Design, Database De
 
 ---
 
+## 🧩 What Makes Me Different
+
+- I don’t just build features — I think in **systems**
+- I’ve worked on **real production use-cases**, not just demos  
+- I balance **development + mentorship**, which improves both code and thinking  
+
 ---
 ## 🧠 Problem Solving & Competitive Programming
 
@@ -93,15 +99,6 @@ I actively practice problem-solving to strengthen my algorithmic thinking and sy
 - **Codolio:**  https://codolio.com/profile/cjyWivAc
 - **CodeChef:** https://www.codechef.com/users/sofikul_sk02
 - **Codeforces:** https://codeforces.com/profile/sofikulsk_02
----
-
-## 🧩 What Makes Me Different
-
-- I don’t just build features — I think in **systems**
-- I’ve worked on **real production use-cases**, not just demos  
-- I balance **development + mentorship**, which improves both code and thinking  
-
----
 
 ## 📬 Connect
 
