@@ -24,24 +24,33 @@ I build systems that solve real problems — and I care about how they behave in
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Skills & Tools
 
 ### **Languages**
-JavaScript, TypeScript, C++, Python, Go 
 
-### **Backend**
-Node.js, Express.js  
-REST APIs, Authentication, System Design
+JavaScript, TypeScript, C++, Python, Go
 
-### **Frontend (when needed)**
-React.js ,Next Js
+### **Web Development**
+
+* **Frontend:** HTML, CSS, React.js, Next.js  
+* **Backend:** Node.js, Express.js  
+* **APIs & Architecture:** REST APIs, Authentication, Scalable System Design  
 
 ### **Databases**
+
 PostgreSQL, MongoDB, Redis
 
-### **DevOps & Tools**
-Docker, Git, GitHub  
-CI/CD, Cloud (AWS)
+### **DevOps**
+
+* **Containerization:** Docker  
+* **Cloud:** AWS  
+* **Version Control:** Git, GitHub  
+* CI/CD  
+
+### **Core Fundamentals**
+
+Operating Systems, Networking, Algorithmic Thinking
+
 
 ---
 
@@ -84,11 +93,11 @@ CI/CD, Cloud (AWS)
 ## 📬 Connect
 
 - GitHub: https://github.com/sofikulsk02
+- Email: sofikul.main@gmail.com
 - Linkedin: https://in.linkedin.com/in/sofikul-sk
 - Leetcode: https://leetcode.com/u/sofikul_sk_02
 - Medium: https://medium.com/@sofikul.main
-- Discord: https://discord.com/users/sofikulsk_02
-- X: https://x.com/sofikulsk02
+- X(twitter): https://x.com/sofikulsk02
 ---
 
 > Currently focused on becoming extremely strong in **backend systems & Generative AI**
