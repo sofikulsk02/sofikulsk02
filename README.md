@@ -32,9 +32,10 @@ JavaScript, TypeScript, C++, Python, Go
 
 ### **Web Development**
 
-* **Frontend:** HTML, CSS, React.js, Next.js  
-* **Backend:** Node.js, Express.js  
+* **Frontend:** HTML, CSS, React.js, Next.js ,Tailwind , Framer , Shadcn
+* **Backend:** Node.js, Express.js ,Next.js ,FastAPI
 * **APIs & Architecture:** REST APIs, Authentication, Scalable System Design  
+* **Testing:** Jest,Vitest 
 
 ### **Databases**
 
@@ -44,12 +45,12 @@ PostgreSQL, MongoDB, Redis
 
 * **Containerization:** Docker  
 * **Cloud:** AWS  
-* **Version Control:** Git, GitHub  
+* **Version Control:** Git, GitHub ,Gitlab
 * CI/CD  
 
 ### **Core Fundamentals**
 
-Operating Systems, Networking, Algorithmic Thinking
+Operating Systems, Networking, Computer architecture , System design , Database design
 
 
 ---
