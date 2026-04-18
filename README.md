@@ -6,7 +6,7 @@ I build systems that solve real problems — and I care about how they behave in
 
 ## 🚀 About Me
 
-- I’m **Sofikul Sk**, a **Backend-Focused Full Stack Engineer**
+- I’m **Sofikul Sk**,a 3rd-year student in the Online BSc (Hons) program at **IIT Guwahati**, a **Backend-Focused Full Stack Engineer**
 - Currently working at **Physics Wallah (PW)**  
 - I design and build **scalable backend systems**, APIs, and real-world applications
 - I also **mentor juniors & interns**, helping them write better code and think like engineers
@@ -83,6 +83,17 @@ Operating Systems, Networking, Computer architecture , System design , Database 
 
 ---
 
+---
+## 🧠 Problem Solving & Competitive Programming
+
+I actively practice problem-solving to strengthen my algorithmic thinking and system design intuition.
+
+- **LeetCode:** https://leetcode.com/u/sofikul_sk_02
+- **Codolio:**  https://codolio.com/profile/cjyWivAc
+- **CodeChef:** https://www.codechef.com/users/sofikul_sk02
+- **Codeforces:** https://codeforces.com/profile/sofikulsk_02
+---
+
 ## 🧩 What Makes Me Different
 
 - I don’t just build features — I think in **systems**
@@ -96,7 +107,6 @@ Operating Systems, Networking, Computer architecture , System design , Database 
 - GitHub: https://github.com/sofikulsk02
 - Email: sofikul.main@gmail.com
 - Linkedin: https://in.linkedin.com/in/sofikul-sk
-- Leetcode: https://leetcode.com/u/sofikul_sk_02
 - Medium: https://medium.com/@sofikul.main
 - X(twitter): https://x.com/sofikulsk02
 ---
