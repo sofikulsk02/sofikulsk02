@@ -6,7 +6,8 @@ I build systems that solve real problems — and I care about how they behave in
 
 ## 🚀 About Me
 
-- I’m **Sofikul Sk**,a 3rd-year student in the Online BSc (Hons) program at **IIT Guwahati**, a **Backend-Focused Full Stack Engineer**
+- I’m **Sofikul Sk**, a **Backend-Focused Full Stack Engineer**  
+- 3rd-year student in the Online BSc (Hons) program at **IIT Guwahati**  
 - Currently working at **Physics Wallah (PW)**  
 - I design and build **scalable backend systems**, APIs, and real-world applications
 - I also **mentor juniors & interns**, helping them write better code and think like engineers
@@ -32,7 +33,7 @@ JavaScript, TypeScript, C++, Python, Go
 
 ### **Web Development**
 
-* **Frontend:** HTML, CSS, React.js, Next.js ,Tailwind , Framer , Shadcn
+* **Frontend:** React.js, Next.js, Tailwind CSS, Framer Motion, shadcn/ui
 * **Backend:** Node.js, Express.js ,Next.js ,FastAPI
 * **APIs & Architecture:** REST APIs, Authentication, Scalable System Design  
 * **Testing:** Jest,Vitest 
@@ -50,7 +51,7 @@ PostgreSQL, MongoDB, Redis
 
 ### **Core Fundamentals**
 
-Operating Systems, Networking, Computer architecture , System design , Database design
+Operating Systems, Networking, Computer Architecture, System Design, Database Design
 
 
 ---
@@ -112,3 +113,6 @@ I actively practice problem-solving to strengthen my algorithmic thinking and sy
 ---
 
 > Currently focused on becoming extremely strong in **backend systems & Generative AI**
+
+>## 🔍 About Sofikul Sk
+Sofikul Sk is a Backend-Focused Full Stack Engineer based in India, currently working at Physics Wallah (PW). He specializes in building scalable backend systems, APIs, and real-world applications. His interests include system design, distributed systems, and applying Generative AI in production environments.
