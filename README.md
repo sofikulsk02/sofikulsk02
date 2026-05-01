@@ -1,6 +1,14 @@
-# Hey, I’m Sofikul 👋
+# Hey, I’m Sofikul Sk 👋(🌐 Portfolio: https://www.sofikulsk.me)
 
-I build systems that solve real problems — and I care about how they behave in production.
+Backend & Systems Engineer | Full Stack Developer | IIT Guwahati (Data Science & AI)
+
+I build scalable backend systems, APIs, and real-world applications that perform reliably in production.
+
+---
+
+🚀 Backend & Systems Engineer at :contentReference[oaicite:0]{index=0}  
+🎓 IIT Guwahati – Data Science & AI  
+💻 Full Stack Developer | GenAI Enthusiast
 
 ---
 
@@ -110,6 +118,10 @@ I actively practice problem-solving to strengthen my algorithmic thinking and sy
 ---
 
 > Currently focused on becoming extremely strong in **backend systems & Generative AI**
+
+## 📊 GitHub Stats
+
+![Sofikul's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofikulsk02&show_icons=true)
 
 >## 🔍 About Sofikul Sk
 Sofikul Sk is a Backend-Focused Full Stack Engineer based in India, currently working at Physics Wallah (PW). He specializes in building scalable backend systems, APIs, and real-world applications. His interests include system design, distributed systems, and applying Generative AI in production environments.
