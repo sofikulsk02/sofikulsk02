@@ -40,24 +40,21 @@ Currently working as a **Backend Developer at Physics Wallah**, while continuous
 
 **Languages:** C++, JavaScript, TypeScript, Python, Go  
 
-**Frontend:** HTML, CSS, React.js, Next.js, Tailwind CSS, Framer Motion, GSAP, shadcn/ui, Vite, Parcel  
+**Frontend:** React.js, Next.js, Tailwind CSS, Framer Motion, GSAP, shadcn/ui, Vite
 
-**Backend:** Node.js, Express.js, FastAPI, REST APIs, Authentication, Authorization, Webhooks, Socket.IO  
+**Backend:** Node.js, Express.js, FastAPI, TypeScript, REST, Socket.IO, WebSockets, Webhooks, Server-Sent Events (SSE), Event-Driven Architecture, Message Queues, Redis
 
-**Databases:** PostgreSQL, MongoDB, Redis, Prisma ORM, SQL, Database Design  
+**Databases:** PostgreSQL, MongoDB, Redis, Prisma ORM, SQL, Cella ,Database Design  
 
 **Cloud & DevOps:** AWS, Docker, Nginx, Linux, CI/CD  
 
-**Tools:** Git, GitHub, GitLab  
+***Developer Tools:** Git, GitHub, GitLab, Postman 
 
-**Testing:** Jest, Vitest  
+**Collaboration:** Jira, Slack, Discord
 
-**Payments & Integrations:** Razorpay, REST APIs, Webhooks, External API Integration  
+**Testing:** Jest, Vitest, Manual test
 
 **Systems & Fundamentals:** Data Structures & Algorithms, Operating Systems, Computer Networks, Computer Architecture, System Design, Concurrency, Distributed Systems, Linux/POSIX, Filesystems & Storage
-
-### Systems & Fundamentals
-Data Structures & Algorithms, Operating Systems, Computer Networks, Computer Architecture, System Design, Concurrency, Distributed Systems, Linux/POSIX, Filesystems & Storage
 
 ---
 
