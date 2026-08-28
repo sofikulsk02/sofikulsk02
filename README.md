@@ -48,7 +48,7 @@ Currently working as a **Backend Developer at Physics Wallah**, while continuous
 
 **Cloud & DevOps:** AWS, Docker, Nginx, Linux, CI/CD  
 
-***Developer Tools:** Git, GitHub, GitLab, Postman 
+**Developer Tools:** Git, GitHub, GitLab, Postman 
 
 **Collaboration:** Jira, Slack, Discord
 
