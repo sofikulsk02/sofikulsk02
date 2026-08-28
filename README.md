@@ -1,127 +1,198 @@
-# Hey, I’m Sofikul Sk 👋(🌐 Portfolio: https://www.sofikulsk.me)
+# Hey, I'm Sofikul Sk
 
-Backend & Systems Engineer | Full Stack Developer | IIT Guwahati (Data Science & AI)
+### Backend & Systems Engineer | Full Stack Developer | IIT Guwahati
 
-I build scalable backend systems, APIs, and real-world applications that perform reliably in production.
+**Portfolio:** https://www.sofikulsk.me
 
----
+I’m a software engineer focused on building **backend systems, APIs, databases, and reliable production applications**.
 
-🚀 Backend & Systems Engineer at :contentReference[oaicite:0]{index=0}  
-🎓 IIT Guwahati – Data Science & AI  
-💻 Full Stack Developer | GenAI Enthusiast
+Currently working as a **Backend Developer at Physics Wallah**, while continuously exploring **systems programming, databases, operating systems, networking, and distributed systems**.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- I’m **Sofikul Sk**, a **Backend-Focused Full Stack Engineer**  
-- 3rd-year student in the Online BSc (Hons) program at **IIT Guwahati**  
-- Currently working at **Physics Wallah (PW)**  
-- I design and build **scalable backend systems**, APIs, and real-world applications
-- I also **mentor juniors & interns**, helping them write better code and think like engineers
-
----
-
-## 🧠 What I Focus On
-
-- Backend architecture & system design  
-- Building **reliable APIs and services**  
-- Working with **databases, scaling, and performance**  
-- Applying **Generative AI in real-world products**  
+- Studying **Data Science & AI at IIT Guwahati**
+- Backend-focused developer with experience building production applications
+- Interested in **backend architecture, databases, scalability, concurrency, and system design**
+- Currently building a **database engine from scratch in C++**
+- Regularly practice **DSA and competitive programming**
+- Interested in understanding how systems work underneath the abstractions
 
 > I like systems that are simple on the outside, but powerful underneath.
 
 ---
 
-## ⚙️ Skills & Tools
+## What I Focus On
 
-### **Languages**
-
-JavaScript, TypeScript, C++, Python, Go
-
-### **Web Development**
-
-* **Frontend:** React.js, Next.js, Tailwind CSS, Framer Motion, shadcn/ui
-* **Backend:** Node.js, Express.js ,Next.js ,FastAPI
-* **APIs & Architecture:** REST APIs, Authentication, Scalable System Design  
-* **Testing:** Jest,Vitest 
-
-### **Databases**
-
-PostgreSQL, MongoDB, Redis
-
-### **DevOps**
-
-* **Containerization:** Docker  
-* **Cloud:** AWS  
-* **Version Control:** Git, GitHub ,Gitlab
-* CI/CD  
-
-### **Core Fundamentals**
-
-Operating Systems, Networking, Computer Architecture, System Design, Database Design
-
+- Backend architecture & system design
+- REST APIs & backend services
+- Database design & storage systems
+- Scalability & performance
+- Caching & asynchronous processing
+- Concurrency & systems programming
+- Distributed systems
+- Production reliability
 
 ---
 
-## 🛠️ Projects
+## Tech Stack
 
-### **1. Smart Chat History Search Engine**
-- Built a system to **search past conversations using AI**
-- Focused on **efficient retrieval + semantic understanding**
-- Combines backend systems with **GenAI capabilities**
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+### Tools & Infrastructure
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+
+### Testing
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 
 ---
 
-### **2. LeetCode Tracker (Next-Level)**
-- Tracks multiple users’ coding progress automatically  
-- Provides **analytics, graphs, and weekly insights**  
-- Built with a focus on **automation + scalability**
+## Featured Projects
+
+### Cella — Database Engine
+
+A relational database engine I'm building from scratch in **C++** to understand database internals and systems programming.
+
+The project explores concepts such as:
+
+- Storage engines
+- Pages & records
+- Indexing
+- Buffer management
+- Transactions & durability
+- Concurrency
+- Query execution
+- Database internals
+
+**C++ · Systems Programming · Databases**
 
 ---
 
-### **3. Full Stack Production Apps**
-- Developed and deployed real-world applications (like **thefoxmedia.in**)  
-- Worked on **authentication, payments, and backend workflows**
+### Smart Chat History Search Engine
+
+A system for efficiently searching and retrieving relevant conversations from large chat histories.
+
+Focused on:
+
+- Efficient retrieval
+- Semantic search
+- Backend architecture
+- Data processing
+- Search performance
 
 ---
 
-### **4. Backend Systems & APIs**
-- Designed multiple APIs with proper structure, validation, and security  
-- Focused on **clean architecture and maintainability**
+### LeetCode Tracker
+
+A platform for automatically tracking coding progress and generating useful insights from users' problem-solving activity.
+
+Focused on:
+
+- API integration
+- Automation
+- Data processing
+- Backend architecture
+- Scalable application design
 
 ---
 
-## 🧩 What Makes Me Different
+### Production Applications
 
-- I don’t just build features — I think in **systems**
-- I’ve worked on **real production use-cases**, not just demos  
-- I balance **development + mentorship**, which improves both code and thinking  
+I've also worked on and deployed real-world applications involving:
+
+- Authentication
+- Payment integrations
+- Webhooks
+- External APIs
+- Database-driven workflows
+- Backend services
 
 ---
-## 🧠 Problem Solving & Competitive Programming
 
-I actively practice problem-solving to strengthen my algorithmic thinking and system design intuition.
+## Experience
 
-- **LeetCode:** https://leetcode.com/u/sofikul_sk_02
-- **Codolio:**  https://codolio.com/profile/cjyWivAc
-- **CodeChef:** https://www.codechef.com/users/sofikul_sk02
-- **Codeforces:** https://codeforces.com/profile/sofikulsk_02
+### Backend Developer — Physics Wallah
 
-## 📬 Connect
+Working on production backend systems and real-world applications.
 
-- GitHub: https://github.com/sofikulsk02
-- Email: sofikul.main@gmail.com
-- Linkedin: https://in.linkedin.com/in/sofikul-sk
-- Medium: https://medium.com/@sofikul.main
-- X(twitter): https://x.com/sofikulsk02
+**Technologies:**  
+`Node.js` · `TypeScript` · `Express.js` · `PostgreSQL` · `Prisma`
+
+Areas I've worked with include:
+
+- Backend API development
+- Database design
+- Payment integrations
+- Webhooks
+- External API integrations
+- Production backend workflows
+
 ---
 
-> Currently focused on becoming extremely strong in **backend systems & Generative AI**
+## Problem Solving
 
-## 📊 GitHub Stats
+I regularly practice **Data Structures & Algorithms** and competitive programming to strengthen my problem-solving and algorithmic thinking.
+
+- [LeetCode](https://leetcode.com/u/sofikul_sk_02)
+- [Codeforces](https://codeforces.com/profile/sofikulsk_02)
+- [CodeChef](https://www.codechef.com/users/sofikulsk02)
+- [Codolio](https://codolio.com/profile/cjyWivAc)
+
+---
+
+## Currently Learning
+
+I'm currently going deeper into the fundamentals behind modern software systems:
+
+**Operating Systems · Computer Architecture · Networking · Databases · Concurrency · Distributed Systems · Linux/POSIX**
+
+---
+
+## GitHub Stats
 
 ![Sofikul's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofikulsk02&show_icons=true)
 
->## 🔍 About Sofikul Sk
-Sofikul Sk is a Backend-Focused Full Stack Engineer based in India, currently working at Physics Wallah (PW). He specializes in building scalable backend systems, APIs, and real-world applications. His interests include system design, distributed systems, and applying Generative AI in production environments.
+---
+
+## Connect With Me
+
+- **Portfolio:** https://www.sofikulsk.me
+- **GitHub:** https://github.com/sofikulsk02
+- **LinkedIn:** https://in.linkedin.com/in/sofikul-sk
+- **Medium:** https://medium.com/@sofikul.main
+- **X:** https://x.com/sofikulsk02
+- **Email:** sofikul.main@gmail.com
+
+---
+
+> Building software, learning how systems work underneath, and getting better every day.
