@@ -38,29 +38,15 @@ Currently working as a **Backend Developer at Physics Wallah**, while continuous
 
 ## Tech Stack
 
-### Languages
-C++, JavaScript, TypeScript, Python, Go
-
-### Frontend
-HTML, CSS, React.js, Next.js, Tailwind CSS, Framer Motion, GSAP, shadcn/ui, Vite, Parcel
-
-### Backend
-Node.js, Express.js, FastAPI, Next.js, REST APIs, Authentication, Authorization, Webhooks, Socket.IO
-
-### Databases
-PostgreSQL, MongoDB, Redis, Prisma ORM, SQL, Database Design
-
-### Cloud & DevOps
-AWS, Docker, Nginx, Linux, CI/CD
-
-### Tools
-Git, GitHub, GitLab
-
-### Testing
-Jest, Vitest
-
-### Payments & Integrations
-Razorpay, REST APIs, Webhooks, External API Integration
+**Languages:** C++, JavaScript, TypeScript, Python, Go  
+**Frontend:** HTML, CSS, React.js, Next.js, Tailwind CSS, Framer Motion, GSAP, shadcn/ui, Vite, Parcel  
+**Backend:** Node.js, Express.js, FastAPI, REST APIs, Authentication, Authorization, Webhooks, Socket.IO  
+**Databases:** PostgreSQL, MongoDB, Redis, Prisma ORM, SQL, Database Design  
+**Cloud & DevOps:** AWS, Docker, Nginx, Linux, CI/CD  
+**Tools:** Git, GitHub, GitLab  
+**Testing:** Jest, Vitest  
+**Payments & Integrations:** Razorpay, REST APIs, Webhooks, External API Integration  
+**Systems & Fundamentals:** Data Structures & Algorithms, Operating Systems, Computer Networks, Computer Architecture, System Design, Concurrency, Distributed Systems, Linux/POSIX, Filesystems & Storage
 
 ### Systems & Fundamentals
 Data Structures & Algorithms, Operating Systems, Computer Networks, Computer Architecture, System Design, Concurrency, Distributed Systems, Linux/POSIX, Filesystems & Storage
